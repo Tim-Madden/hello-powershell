@@ -2,6 +2,7 @@
 * Commands I've learned
     * git init
     * git add .
+    * git commit -m "message"
     * git push got messy because I made a new repository name on GitHub.com and created a license file there instead of adding an existing repository.
         * I had to git remote add hello-powershell <link>
         * git pull hello-powershell
